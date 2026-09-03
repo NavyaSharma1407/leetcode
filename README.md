@@ -20,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0039-combination-sum) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/NavyaSharma1407/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+## Math
+|  |
+| ------- |
+| [3876-construct-uniform-parity-array-ii](https://github.com/NavyaSharma1407/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
