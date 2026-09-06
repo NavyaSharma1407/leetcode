@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NavyaSharma1407/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/NavyaSharma1407/leetcode/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NavyaSharma1407/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/NavyaSharma1407/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NavyaSharma1407/leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/NavyaSharma1407/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
