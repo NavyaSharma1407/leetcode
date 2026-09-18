@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/NavyaSharma1407/leetcode/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/NavyaSharma1407/leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NavyaSharma1407/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/NavyaSharma1407/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/NavyaSharma1407/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
