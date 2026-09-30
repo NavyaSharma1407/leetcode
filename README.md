@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/NavyaSharma1407/leetcode/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/NavyaSharma1407/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1922-count-good-numbers](https://github.com/NavyaSharma1407/leetcode/tree/master/1922-count-good-numbers) |
 | [3870-count-commas-in-range](https://github.com/NavyaSharma1407/leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NavyaSharma1407/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0015-3sum) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/NavyaSharma1407/leetcode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
