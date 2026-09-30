@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0039-combination-sum) |
 | [1512-number-of-good-pairs](https://github.com/NavyaSharma1407/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NavyaSharma1407/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0015-3sum) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NavyaSharma1407/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Geometry
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NavyaSharma1407/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
