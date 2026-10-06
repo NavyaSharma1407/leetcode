@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NavyaSharma1407/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/NavyaSharma1407/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/NavyaSharma1407/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/NavyaSharma1407/leetcode/tree/master/0216-combination-sum-iii) |
 ## Array
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/NavyaSharma1407/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/NavyaSharma1407/leetcode/tree/master/0216-combination-sum-iii) |
 | [1512-number-of-good-pairs](https://github.com/NavyaSharma1407/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/NavyaSharma1407/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
