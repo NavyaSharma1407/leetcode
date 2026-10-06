@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NavyaSharma1407/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/NavyaSharma1407/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/NavyaSharma1407/leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NavyaSharma1407/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NavyaSharma1407/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/NavyaSharma1407/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NavyaSharma1407/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/NavyaSharma1407/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/NavyaSharma1407/leetcode/tree/master/0216-combination-sum-iii) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/NavyaSharma1407/leetcode/tree/master/0216-combination-sum-iii) |
 | [1512-number-of-good-pairs](https://github.com/NavyaSharma1407/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NavyaSharma1407/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -88,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NavyaSharma1407/leetcode/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
