@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NavyaSharma1407/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/NavyaSharma1407/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0039-combination-sum) |
+| [0216-combination-sum-iii](https://github.com/NavyaSharma1407/leetcode/tree/master/0216-combination-sum-iii) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0039-combination-sum) |
+| [0216-combination-sum-iii](https://github.com/NavyaSharma1407/leetcode/tree/master/0216-combination-sum-iii) |
 | [1512-number-of-good-pairs](https://github.com/NavyaSharma1407/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NavyaSharma1407/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/NavyaSharma1407/leetcode/tree/master/3903-smallest-stable-index-i) |
