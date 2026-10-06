@@ -5,6 +5,7 @@ public:
             if(n == 0){
                 ans.push_back(temp);
             }
+            if(n < 0) return;
             return;
         }
         for(int i=num;i<=9;i++){
