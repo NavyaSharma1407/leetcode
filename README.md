@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NavyaSharma1407/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/NavyaSharma1407/leetcode/tree/master/0037-sudoku-solver) |
 | [1512-number-of-good-pairs](https://github.com/NavyaSharma1407/leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NavyaSharma1407/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/NavyaSharma1407/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/NavyaSharma1407/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/NavyaSharma1407/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/NavyaSharma1407/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/NavyaSharma1407/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
@@ -100,9 +103,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/NavyaSharma1407/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/NavyaSharma1407/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/NavyaSharma1407/leetcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/NavyaSharma1407/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
