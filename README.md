@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NavyaSharma1407/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/NavyaSharma1407/leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/NavyaSharma1407/leetcode/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NavyaSharma1407/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NavyaSharma1407/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/NavyaSharma1407/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/NavyaSharma1407/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/NavyaSharma1407/leetcode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/NavyaSharma1407/leetcode/tree/master/0282-expression-add-operators) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/NavyaSharma1407/leetcode/tree/master/0282-expression-add-operators) |
 | [0836-rectangle-overlap](https://github.com/NavyaSharma1407/leetcode/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/NavyaSharma1407/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/NavyaSharma1407/leetcode/tree/master/1922-count-good-numbers) |
