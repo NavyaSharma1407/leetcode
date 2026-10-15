@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NavyaSharma1407/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/NavyaSharma1407/leetcode/tree/master/0037-sudoku-solver) |
 | [1512-number-of-good-pairs](https://github.com/NavyaSharma1407/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaSharma1407/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/NavyaSharma1407/leetcode/tree/master/0216-combination-sum-iii) |
 | [1512-number-of-good-pairs](https://github.com/NavyaSharma1407/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaSharma1407/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NavyaSharma1407/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/NavyaSharma1407/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NavyaSharma1407/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -117,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/NavyaSharma1407/leetcode/tree/master/0037-sudoku-solver) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaSharma1407/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaSharma1407/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
