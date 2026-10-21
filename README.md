@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/NavyaSharma1407/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [1922-count-good-numbers](https://github.com/NavyaSharma1407/leetcode/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/NavyaSharma1407/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/NavyaSharma1407/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
