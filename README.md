@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/NavyaSharma1407/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/NavyaSharma1407/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/NavyaSharma1407/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/NavyaSharma1407/leetcode/tree/master/0216-combination-sum-iii) |
 | [1512-number-of-good-pairs](https://github.com/NavyaSharma1407/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NavyaSharma1407/leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/NavyaSharma1407/leetcode/tree/master/0055-jump-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/NavyaSharma1407/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/NavyaSharma1407/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
