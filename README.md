@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/NavyaSharma1407/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/NavyaSharma1407/leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/NavyaSharma1407/leetcode/tree/master/0216-combination-sum-iii) |
+| [0435-non-overlapping-intervals](https://github.com/NavyaSharma1407/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1512-number-of-good-pairs](https://github.com/NavyaSharma1407/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/NavyaSharma1407/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaSharma1407/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NavyaSharma1407/leetcode/tree/master/0015-3sum) |
+| [0435-non-overlapping-intervals](https://github.com/NavyaSharma1407/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/NavyaSharma1407/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/NavyaSharma1407/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/NavyaSharma1407/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -144,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/NavyaSharma1407/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/NavyaSharma1407/leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
