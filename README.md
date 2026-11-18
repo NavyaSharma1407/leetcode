@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/NavyaSharma1407/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/NavyaSharma1407/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NavyaSharma1407/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NavyaSharma1407/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NavyaSharma1407/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/NavyaSharma1407/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NavyaSharma1407/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/NavyaSharma1407/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/NavyaSharma1407/leetcode/tree/master/1922-count-good-numbers) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/NavyaSharma1407/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NavyaSharma1407/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/NavyaSharma1407/leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NavyaSharma1407/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
